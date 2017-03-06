@@ -1,0 +1,3 @@
+Selenium使用CSS locator定位HTML element
+https://jzchangmark.wordpress.com/2015/03/16/selenium-使用-css-locator-定位元件/
+
